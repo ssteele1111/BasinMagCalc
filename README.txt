@@ -1,4 +1,4 @@
-Reproduction code for 
+Reproduction code for: Could the weak magnetism of Martian impact basins reflect cooling in a reversing dynamo?
 
 System requirements:
 	Tested on Windows 10 22H2 and Rocky Linux 8.7 (Green Obsidian)
