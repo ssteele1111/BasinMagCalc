@@ -1,0 +1,28 @@
+================================================================================
+Title: A new martian crater chronology: Implications for Jezero crater
+Authors: Marchi S.
+================================================================================
+Description of contents: This tar.gz archive file contains the new N1
+    chronology curves shown in Figure 2, panel (b) of the accepted version
+    of the manuscript listed above. There are four files in this archive,
+    which are listed here:
+
+    File Name              Nominal model               MD5 checksum
+    mars_N1_MBA_early.dat  MBA SFD, early instability  f1e3599e6069de46b10eda8010000687
+    mars_N1_MBA_late.dat   MBA SFD, late instability   482851054512e15fd1d1b4bfa3c50c97
+    mars_N1_NEO_early.dat  NEO SFD, early instability  1b5f0a45e041c6dcefc6bb6e4e995634
+    mars_N1_NEO_late.dat   NEO SFD, late instability   cf660daa321b7aa23f2f29ed1f0ccf88
+
+System requirements: The files are plain text, with 2 rows # delimited
+    header rows and 101 data rows in two columns:
+    
+    Label  Units
+    Time   Ga     
+    N1     craters per km2
+
+
+Additional comments: Please refer to the main text for additional
+    explanations about the assumptions and range of validity of the
+    chronology curves. In case of doubt contact the author.
+
+================================================================================

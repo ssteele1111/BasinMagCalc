@@ -1,0 +1,33 @@
+================================================================================
+Title: A new martian crater chronology: Implications for Jezero crater
+Authors: Marchi S.
+================================================================================
+Description of contents: This tar.gz archive file contains the MBA and NEO MPF
+    curves. The MBA MPF curve is shown in Figure 5 of the accepted version
+    of the manuscript listed above. There are two files in this archive,
+    which are listed here:
+
+    File Name          MD5 checksum                      Contents
+
+    mars_MPF_MBA.dat   010be2cea070594575317ab1dcec4008  MPF for MBA-like SFD 
+        from Bottke et al 2020, extended to 4000 km. Generated with a cratering
+        scaling law from Johnson et al 2016 (rock).
+
+    mars_MPF_NEO.dat   d6b05cf0c47f14e035a4e26404983cbb  MPF for NEO-like SFD 
+        from Harris and D'Abramo 2015 generated with a cratering scaling law 
+        from Johnson et al 2016 (rock).
+
+System requirements: The files are plain text, with 6 rows # delimited
+    header rows. The MBA MPF file contains 73 data rows; the NEO MPF file
+    contains 43 data rows
+    
+    Label          Units
+    Crater_diam    km
+    MPF            arbitrary units
+
+
+Additional comments: Please refer to the main text for additional
+    explanations about the assumptions and range of validity of the MPF
+    curves. In case of doubt contact the author.
+
+================================================================================
